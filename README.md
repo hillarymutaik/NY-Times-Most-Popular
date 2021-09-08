@@ -14,19 +14,18 @@ Component.
 </p>
 <br>
 
-How to run the application:
-using git CLI or the Github Desktop, clone the project repository from the link below:
+#How to run the application:
+1. Using git CLI or the Github Desktop, clone the project repository from the link below:
 https://github.com/Hillary-K-Mutai/NY-Times-Most-Popular.
 
-Using IDE of your choice(Android Studio), import the project folder from your PC
+2. Using IDE of your choice(Android Studio), import the project folder from your PC
 Import the gradle for the project,
-After Everything is set.
+After Everything is set,
 
-Connect an android device or an emulator(AVD) to build and install the project.
+3. Connect an android device or an emulator(AVD) to build and install the project.
 
-The project should run and the result is as shown in the screenshots provided
+4. The project should run and the result is as shown in the screenshots provided
 
 <br>
-
    Copyright (C) 2021 Hillary Mutai
 
