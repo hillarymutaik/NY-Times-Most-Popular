@@ -9,7 +9,7 @@ Component.
 <br>
 <p align="center">
     <img src="Screenshot_main.png" width="200"/>
-    <img src="Screenshot_favorite.png" width="200"/>
+    <img src="Screenshot_favourite.png" width="200"/>
     <img src="Screenshot_detail.png" width="200"/>
 </p>
 <br>
