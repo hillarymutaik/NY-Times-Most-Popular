@@ -1,12 +1,12 @@
-# NYTimesMostPopularArticles
+# The New York Times Most Popular Articles
 
 A simple app to hit the NY Times Most Popular Articles API and show a list of articles, that shows details when items on the list are tapped (a typical master/detail app), also user able to browse/ add articles to favorite list that implements MVVM architecture using Dagger2, Retrofit, Coroutines, LiveData, RoomDatabase, Database Debugging, DataBinding and Navigation Component.
 
 <br>
 <p align="center">
-    <img src="page1.jpg" width="250"/>
-    <img src="page2.jpg" width="250"/>
-    <img src="page3.jpg" width="250"/>
+    <img src="Screenshot_main.png" width="250"/>
+    <img src="Screenshot_favorite.png" width="250"/>
+    <img src="Screenshot_detail.png" width="250"/>
 </p>
 <br>
 
@@ -19,17 +19,6 @@ A simple app to hit the NY Times Most Popular Articles API and show a list of ar
 #### Classes have been designed in such a way that it could be inherited and maximize the code reuse.
 <br>
 
-## Navigation Component Graph
-<p align="center">
-    <img src="nav_graph.png"/>
-</p>
-<br>
-
-## Guide to app architecture
-<p align="center">
-    <img src="architecture.png"/>
-</p>
-<br>
 
 ## Library reference resources:
 1. Coroutines: https://codelabs.developers.google.com/codelabs/kotlin-coroutines/
@@ -41,21 +30,5 @@ A simple app to hit the NY Times Most Popular Articles API and show a list of ar
 7. Navigation Component: https://developer.android.com/guide/navigation/navigation-getting-started
 <br>
 
-#### Java version: https://github.com/AmrAbdelhameed/NYTimesMostPopularArticles-JavaVersion
+   Copyright (C) 2021 Hillary Mutai
 
-## License
-```
-   Copyright (C) 2019 Amr Abdelhameed
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
